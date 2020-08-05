@@ -1,2 +1,3 @@
-# team-xd-
-This is the initiated README for team team %xd&amp;, Please edit this as you build your project
+# Team Name
+This is the initiated README for your team.
+Please edit this as you build your project
